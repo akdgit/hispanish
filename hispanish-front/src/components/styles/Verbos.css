@@ -1,0 +1,52 @@
+.cont-verbo{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    flex-direction: column;
+    width: 30%;
+    height: 100%;
+    padding: 4px;
+    border-bottom: solid 1px #6699cc;
+}
+
+.verbo{
+    font-family: Roboto;
+    font-size: 24px;
+    padding-right: 100px;
+    font-weight: bold;
+}
+
+ul{
+    margin-bottom: auto; 
+    padding: 0.5rem;
+}
+
+li{
+    font-family: sans-serif;
+    font-size: 14px;
+    padding: 1px;
+    list-style-type: upper-latin;
+}
+}
+
+.cont-ej{
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    width: 30%;
+    height: auto;
+}
+
+.ejemplo{
+    font-family: sans-serif;
+    font-size: 16px;
+    margin-top: auto;
+    padding: 0.5rem;
+}
+}
+
+
+
+

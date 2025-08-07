@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  width: 100%;
+}
+
+.tit-prin{
+  font-family: Roboto;
+  font-size: 28px;
+  text-align: center;
+}
+
+.parra-prin{
+  font-family: sans-serif;
+  font-size: 16px;
+  text-align: left;
+}
